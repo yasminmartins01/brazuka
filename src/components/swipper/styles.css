@@ -49,20 +49,20 @@ body {
 .uno{
   width: 90%;
   height: 90vh;
-  background-image: url('https://www.newswhip.com/wp-content/uploads/2019/08/Retail-and-fashion.png');
+  background-image: url('../../img/img1.png');
   background-size: cover;
 }
 
 .dos{
   width: 90%;
   height: 90vh;
-  background-image: url('https://theimpression.com/wp-content/uploads/2021/09/coach-bks-rs22-2525-1-scaled.jpg');
+  background-image: url('../../img/img2.png');
   background-size: cover;
 }
 
 .tres{
   width: 90%;
   height: 90vh;
-  background-image: url('https://homecomingevents.co.za/wp-content/uploads/revslider/fashion-header/fashion4.jpg');
+  background-image: url('../../img/img3.png');
   background-size: cover;
 }
