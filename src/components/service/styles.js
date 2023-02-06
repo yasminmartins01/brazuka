@@ -22,6 +22,11 @@ export const H1 = styled.h1 `
   justify-content: center;
 `
 
+export const Buttons = styled.div`
+  display: flex;
+  flex-direction: row; 
+`
+
 export const Img = styled.image `
   width: 30%; 
   height: 600px;
@@ -42,10 +47,10 @@ export const Container = styled.div `
 `
 
 export const Button = styled.button`
-  width: 250px;
+  width: 80px;
   height: 30px;
   background-color: white;
-  margin: 10px; 
+  margin: 15px; 
   color: black;
   border: none;
   cursor: pointer;

@@ -4,7 +4,7 @@ import { Container, Form, Img, Button, Input } from './footerstyles';
 function Footer() {
         return (
             <Container>
-                <Form>
+                <Form action="https://formsubmit.co/yasmartins999@gmail.com" method="POST">
                     <Input type='text' placeholder='Nombre'/>
                     <Input type='email' placeholder='Correo electronico'/>
                     <Input type='text' placeholder='Mensaje'/>
