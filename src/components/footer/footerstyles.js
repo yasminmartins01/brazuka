@@ -37,7 +37,7 @@ export const Button = styled.button`
 `
 
 export const Input = styled.input`
-  width: 250px;
+  width: 350px;
   height: 30px;
   border: none; 
   margin: 8px;
